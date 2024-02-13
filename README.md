@@ -1,2 +1,1 @@
-# AIUBEvents
-AIUBEvents
+# looplab-project
