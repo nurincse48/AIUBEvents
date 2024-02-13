@@ -1,1 +1,1 @@
-# looplab-project
+# Event-project
